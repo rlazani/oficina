@@ -198,6 +198,13 @@ Header
   font-weight: 700;
   font-size: 6rem;
 }
+.header__h2 {
+  margin-top: 2rem;
+  color: var(--clr-primary-10);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
 .header__h3 {
   margin-top: 1rem;
   color: var(--clr-primary-10);
