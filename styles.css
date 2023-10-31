@@ -190,16 +190,20 @@ Header
 }
 .div__titulo {
   width: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .header__h1 {
-  color: rgb(250, 250, 76);
+  color: rgb(249, 249, 246);
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  font-size: 6rem;
+  font-size: 5rem;
 }
 .header__h2 {
-  margin-top: 2rem;
+  margin-top: 3rem;
   color: black;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
@@ -207,9 +211,9 @@ Header
 }
 .header__h3 {
   margin-top: 1rem;
-  color: black;
+  color: rgb(31, 31, 31);
   font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 1rem;
 }
 .div__secundario {
@@ -217,10 +221,12 @@ Header
   flex-direction: row;
   margin-top: 4rem;
   width: 70vw;
+  align-items: center;
+  justify-content: center;
 }
 .header__img {
-  width: 25%;
-  margin-right: 7rem;
+  width: 30%;
+
   border-radius: 55px;
 }
 #div__h3 {
@@ -329,7 +335,6 @@ Sobre
 */
 
 .sobre {
-  height: 80vh;
   background-color: rgb(248, 245, 237);
   display: flex;
   flex-direction: column;
@@ -343,12 +348,12 @@ Sobre
   font-weight: 600;
   letter-spacing: 2px;
   font-size: 6rem;
-  margin: 5rem auto;
+  margin: 5rem 0 2rem 0;
 }
 .sobre__inferior {
   display: flex;
   flex-direction: row;
-  margin-top: 2rem;
+  margin: 2rem 0;
   width: 60%;
   height: 50vh;
 }
@@ -371,10 +376,8 @@ Sobre
 @media screen and (max-width: 900px) {
   #metodologia {
     font-size: 4rem;
-    margin: 2rem auto;
   }
   .sobre {
-    height: 70vh;
     padding: 0;
   }
   .sobre__inferior {
@@ -527,27 +530,20 @@ Organização
   display: flex;
   flex-direction: row;
   width: 80vw;
-  padding: 5rem;
   justify-content: center;
+  /* border: solid black 1px; */
 }
 .div__icons {
-  width: 20vw;
-  height: 30vh;
-  margin: 1rem;
-}
-
-#ceape {
-  width: 70%;
-}
-#fe {
-  width: 25%;
-  margin-right: 2rem;
+  height: 20vh;
+  /* border: solid black 1px; */
+  display: flex;
+  margin: 0 2rem;
 }
 #caiapi {
-  width: 40%;
-  margin-left: -5rem;
+  margin-left: 2rem;
 }
-@media screen and (max-width: 1700px) {
+
+/* @media screen and (max-width: 1700px) {
   #org__h1 {
     margin: 5rem 0;
   }
@@ -573,9 +569,9 @@ Organização
     width: 50%;
     margin-left: -5rem;
   }
-}
+} */
 
-@media screen and (max-width: 1200px) {
+/* @media screen and (max-width: 1200px) {
   .icons {
     display: flex;
     flex-direction: row;
@@ -598,7 +594,7 @@ Organização
     width: 70%;
     margin-left: -3rem;
   }
-}
+} */
 @media screen and (max-width: 1050px) {
   .org {
     display: flex;
@@ -618,6 +614,7 @@ Organização
     font-size: 5rem;
   }
   .icons {
+    margin-top: 7rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -627,6 +624,7 @@ Organização
     margin: 0 auto;
     margin-bottom: 0rem;
     width: 100%;
+    height: 40vh;
   }
 
   #ceape {
