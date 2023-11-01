@@ -354,7 +354,7 @@ Sobre
   line-height: 80px;
   font-weight: 600;
   letter-spacing: 2px;
-  font-size: 6rem;
+  font-size: 4rem;
   margin: 5rem 0 2rem 0;
 }
 .sobre__inferior {
@@ -419,7 +419,7 @@ SLIDER SMILGA
 .slider__titulo h2 {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  font-size: 6rem;
+  font-size: 4rem;
   margin: 5rem auto;
   color: rgb(30, 29, 29);
 }
@@ -617,7 +617,7 @@ Organização
   }
   #org__h1 {
     margin: 10rem auto;
-    font-size: 5rem;
+    font-size: 4rem;
   }
   .icons {
     margin-top: 7rem;
