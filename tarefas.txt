@@ -1,7 +1,8 @@
 
 . 17/10 a 23/10: Seção dos Participantes:
 
-a- fazer cards simples.
+a- finalizar marca fechar.
+b- colocar blur.
 
 
 

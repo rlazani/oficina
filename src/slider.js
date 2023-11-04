@@ -2,25 +2,17 @@ import data from "./data.js";
 console.log("funcionando slider");
 
 const container = document.querySelector(".slide-container");
-const nextBtn = document.querySelector(".next-btn");
-const prevBtn = document.querySelector(".prev-btn");
 
-let people = data;
+/* window.addEventListener("DOMContentLoaded", function () {
+  diplayMenuItems(menu);
+  displayMenuButtons();
+}); */
 
-/* let people = [...data];
-console.log(people); */
-
-// if length is 1 hide buttons
-if (data.length === 1) {
-  nextBtn.style.display = "none";
-  prevBtn.style.display = "none";
-}
-
-container.innerHTML = people
+container.innerHTML = data
   .map((person) => {
     // Destructuring: tirar o objeto do array:
     const { img, name, job, text, url } = person;
-    return `<article class="slide">
+    return `<article class="slide" data-id="${name}">
   <img src=${img} class="img" alt="${name}"/>
   <h4>${name}</h4>
   <p class="title">${job}</p>
