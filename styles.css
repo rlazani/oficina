@@ -481,14 +481,12 @@ h4 {
 
 @media screen and (max-width: 1500px) {
   .slide {
-    padding: 2rem 2rem 0 2rem;
     margin: 1rem;
     width: 30%;
   }
 }
 @media screen and (max-width: 1200px) {
   .slide {
-    padding: 2rem 2rem 0 2rem;
     margin: 1rem;
     width: 40%;
   }
@@ -506,7 +504,6 @@ h4 {
     font-size: 3.5rem;
   }
   .slide {
-    padding: 2rem 2rem 0 2rem;
     margin: 1rem;
     width: 100%;
   }
