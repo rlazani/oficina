@@ -19,11 +19,6 @@ container.innerHTML = data
   <p class="text">
    ${text}
   </p>
-  <div class="slider__lattes">
-    <a href="${url}" target=_blank>  
-      <p>Lattes</p>
-    </a>  
-  </div>
 </div>
  </article>`;
   })

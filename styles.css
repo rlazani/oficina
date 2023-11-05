@@ -424,7 +424,7 @@ SLIDER SMILGA
   color: rgb(30, 29, 29);
 }
 .slide {
-  padding: 2rem 3rem 0 3rem;
+  padding: 3rem 2rem;
   background-color: #f2dfc3;
   border-radius: 10px;
   margin: 1rem;
@@ -466,7 +466,7 @@ h4 {
 }
 .text {
   color: var(--clr-grey-5);
-  line-height: 0.5;
+
   max-width: 35em;
   margin: 0 auto;
   letter-spacing: 1px;
@@ -671,7 +671,7 @@ PROJETOS
   position: fixed;
   z-index: 1;
   left: 13rem;
-  top: 0rem;
+  top: 2rem;
 }
 
 .projetos {
@@ -695,6 +695,8 @@ PROJETOS
   color: rgb(242, 112, 6);
   font-size: 2rem;
   margin-bottom: -6rem;
+  z-index: 0;
+  position: relative;
 }
 .fechar:hover {
   opacity: 80%;
@@ -751,4 +753,32 @@ PROJETOS
 .blur {
   filter: blur(20px);
   opacity: 20%;
+}
+
+@media screen and (max-width: 1800px) {
+  .modal__projeto {
+    left: 8rem;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .modal__projeto {
+    left: 0;
+  }
+  .fechar {
+    margin-left: 91%;
+  }
+  .projetos {
+    width: 100vw;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 800px) {
+}
+
+@media screen and (max-width: 600px) {
+  .fechar {
+    margin-left: 88%;
+  }
 }

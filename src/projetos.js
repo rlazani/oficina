@@ -29,14 +29,13 @@ slideClicado.forEach(function (slide) {
     // Seleciona o pesquisador clicado:
     const nomePesquisador = e.currentTarget.dataset.id;
 
-    modal.innerHTML = data.map((pesquisador) => {
+    let projetoRenderizado = data.map((pesquisador) => {
       const { img, name, job, text, url, resumo, titulo } = pesquisador;
       if (nomePesquisador === name) {
         adicionarBlur.classList.add("blur");
         marcaFechar.classList.remove("hide");
         console.log(`Nomeando: ${name}`);
         return ` <section class="projetos">
-   
     <div class="autor">
       <img src="${img}" class="img" alt="" />
       <div class="dados">
@@ -46,7 +45,6 @@ slideClicado.forEach(function (slide) {
         <p class="titulo">${titulo}</p>
       </div>
     </div>
-
     <div class="resumo">
       <p>
       ${resumo}
@@ -55,6 +53,8 @@ slideClicado.forEach(function (slide) {
   </section>`;
       }
     });
+    projetoRenderizado = projetoRenderizado.join("");
+    modal.innerHTML = projetoRenderizado;
   });
 });
 
