@@ -176,15 +176,7 @@ Header
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e8e2d3+0,e8e2d3+16,e8e2d3+41,e5a612+65,93ad1f+100 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e8e2d3+0,e8e2d3+14,e5a612+48,93ad1f+100 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e8e2d3+0,e5a612+33,e8e2d3+69,93ad1f+100 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e5b516+16,e5a612+38,e8e2d3+69,89ad1f+95 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e2d29a+16,e2bf6c+38,e8e2d3+69,97aa5d+95 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e2d29a+16,e09f06+38,e8e2d3+69,849636+95 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e2d29a+16,e09f06+38,ceaa27+54,e8e2d3+69,849636+95 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e0d7ba+17,e09f06+38,ccbb80+52,e8e2d3+77,849636+99 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e8e2d3+0,e0d7ba+24,ccbb80+46,97aa6b+71,849636+99 */
+
   background: linear-gradient(
     45deg,
     #f7f2e1 0%,
@@ -204,7 +196,7 @@ Header
 }
 
 .header__h1 {
-  color: rgb(8, 8, 8);
+  color: rgb(210, 101, 6);
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   font-size: 5rem;
@@ -226,15 +218,16 @@ Header
 .div__secundario {
   display: flex;
   flex-direction: row;
-  margin-top: 4rem;
-  width: 70vw;
+
+  width: 100vw;
+
   align-items: center;
   justify-content: center;
 }
 .header__img {
-  width: 30%;
+  width: 70%;
 
-  border-radius: 55px;
+  border-radius: 5px;
 }
 #div__h3 {
   display: flex;
@@ -342,7 +335,6 @@ Sobre
 */
 
 .sobre {
-  background-color: #fcf8f3;
   display: flex;
   flex-direction: column;
   /*  justify-content: center; */
@@ -361,8 +353,8 @@ Sobre
   display: flex;
   flex-direction: row;
   margin: 2rem 0;
-  width: 60%;
-  height: 50vh;
+  width: 50%;
+  height: 40vh;
 }
 
 .sobre__descricao {
@@ -371,6 +363,13 @@ Sobre
   padding: 5rem;
   overflow-y: scroll;
   background-color: #fbf1e3;
+  background-color: transparent;
+  border: solid 1px white;
+  border-radius: 5px;
+  line-height: 3.3rem;
+}
+.sobre__descricao p {
+  line-height: 2rem;
 }
 @media screen and (max-width: 1700px) {
 }
@@ -544,12 +543,12 @@ Organização
 .icons {
   display: flex;
   flex-direction: row;
-  width: 80vw;
+  padding: 5rem;
   justify-content: center;
   /* border: solid black 1px; */
 }
 .div__icons {
-  height: 20vh;
+  height: 10vh;
   /* border: solid black 1px; */
   display: flex;
   margin: 0 2rem;
