@@ -218,17 +218,11 @@ Header
 .div__secundario {
   display: flex;
   flex-direction: row;
-
   width: 100vw;
-
   align-items: center;
   justify-content: center;
 }
-.header__img {
-  width: 70%;
 
-  border-radius: 5px;
-}
 #div__h3 {
   display: flex;
   flex-direction: column;
@@ -241,15 +235,6 @@ Header
 @media screen and (max-width: 1400px) {
   .header__h1 {
     font-size: 5rem;
-  }
-
-  .header__img {
-    width: 30%;
-    margin-right: 5rem;
-    border-radius: 55px;
-  }
-  #div__h3 {
-    padding: 1rem 0rem;
   }
 }
 
@@ -271,14 +256,7 @@ Header
     justify-content: center;
     align-items: center;
   }
-  .header__img {
-    width: 70%;
-  }
-  #div__h3 {
-    display: flex;
-    flex-direction: column;
-    padding: 1.5rem 0rem;
-  }
+
   .header__h3 {
     font-size: 2rem;
   }
@@ -289,10 +267,10 @@ Header
     min-height: 60vh;
   }
   .header__h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     display: block;
     text-align: center;
-    line-height: 70px;
+    line-height: 80px;
   }
   .div__titulo {
     display: flex;
@@ -306,17 +284,14 @@ Header
     justify-content: center;
     align-items: center;
   }
-  .header__img {
-    width: 80%;
-    margin: 0;
-  }
+
   #div__h3 {
     display: flex;
     flex-direction: column;
     padding: 1.5rem 0rem;
   }
   .header__h3 {
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: center;
   }
   .nav-link {
@@ -334,21 +309,6 @@ Sobre
 =============================================
 */
 
-.sobre {
-  display: flex;
-  flex-direction: column;
-  /*  justify-content: center; */
-  align-items: center;
-}
-
-#metodologia {
-  color: rgb(6, 6, 6);
-  line-height: 80px;
-  font-weight: 600;
-  letter-spacing: 2px;
-  font-size: 4rem;
-  margin: 5rem 0 2rem 0;
-}
 .sobre__inferior {
   display: flex;
   flex-direction: row;
@@ -379,24 +339,31 @@ Sobre
   }
 }
 @media screen and (max-width: 1200px) {
+  .sobre__inferior {
+    margin: 2rem 0;
+    width: 80%;
+  }
 }
 @media screen and (max-width: 900px) {
-  #metodologia {
-    font-size: 4rem;
-  }
   .sobre {
     padding: 0;
   }
   .sobre__inferior {
-    width: 80%;
+    width: 100%;
+  }
+  .sobre__descricao {
+    padding: 0rem;
+  }
+  .sobre__descricao p {
+    font-size: 4rem;
   }
 }
 @media screen and (max-width: 700px) {
   .sobre__descricao {
-    padding: 1.5rem;
+    padding: 0rem;
   }
   .sobre__descricao p {
-    font-size: 1rem;
+    font-size: 3rem;
   }
 }
 
