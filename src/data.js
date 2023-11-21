@@ -8,6 +8,10 @@ const people = [
     titulo: "História do futebol feminino em São Gabriel da Cachoeira ",
     resumo:
       "A pesquisa descreverá a história da emergência e institucionalização da prática do futebol feminino, organizado em times e praticado de forma competitiva, na cidade de São Gabriel da Cachoeira, estado do Amazonas. Se já existem trabalhos acadêmicos que abordam a prática do futebol entre indígenas e aquela do futebol de mulheres, não encontramos na literatura científica registros sobre a prática de futebol por mulheres indígenas, o que reforça a importância do trabalho proposto. Com base em entrevistas com as mulheres que estiveram na iniciativa da institucionalização do futebol de mulheres em São Gabriel da Cachoeira, a pesquisa irá investigar o perfil das jogadas, os desafios que enfrentaram e que enfrentam, as aprendizagens, sociabilidades e alegrias promovidas por essa experiência e pelo acesso à vida pública por ela promovido. Através do estudo do futebol de mulheres, tocaremos em temas mais amplos, como gênero e juventude contemporânea indígena, na zona urbana da região do Alto Rio Negro. O projeto é proposto por uma estudante indígena daquela cidade, praticante de futebol.",
+    title:
+      "History of Women's Football in the Municipality of São Gabriel da Cachoeira (state of Amazonas, Brazil)",
+    summary:
+      "The research will describe the history of the emergence and institutionalization of women's football, organized in teams and played competitively, in the city of São Gabriel da Cachoeira, state of Amazonas. There is a rich bibliography on women's football in Brazil and we have also found some academic works addressing the practice of football among indigenous people in Brazil. However, we have not found research that intersects these areas, studying the practice of football by indigenous women in Brazil, emphasizing the significance of the proposed work. Based on interviews with women who were involved in the initiative to institutionalize women's football in São Gabriel da Cachoeira, the research will investigate the players' profiles, the challenges they faced and continue to face, the lessons learned, and the joys fostered by this experience and the public life it promotes. Through the study of women's football, broader themes will be touched upon, such as gender and contemporary indigenous youth in the urban area of the Upper Rio Negro region. The project is proposed by an indigenous student from that city who is also a football player.",
   },
   {
     img: "images/ana_claudia.jfif",
@@ -18,7 +22,11 @@ const people = [
     titulo:
       "Confecção e produção de cartilha na língua indígena Nheengatú, Espaço Cultural Indígena Uka Umbuesara Wakenai Anumarehit - Parque das Tribos - Tarumã, no contexto urbano de Manaus ",
     resumo:
-      "  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptate incidunt sit dolores obcaecati asperiores, dolore eaque harum similique blanditiis suscipit quas maiores sint voluptates recusandae minus enim aliquam! Velit dolorum sunt nihil laudantium dolores unde maiores error cum, voluptas nesciunt assumenda! Sed amet natus corporis excepturi consectetur, distinctio quaerat velit odio quas quasi neque facere impedit ut adipisci, mollitia odit, ipsam error inventore voluptas reprehenderit. Similique corrupti quos deserunt reprehenderit eius provident doloremque? Quis eum aliquid, nisi molestias itaque esse suscipit et, dolore natus facere accusantium velit veritatis eos minus fuga eaque porro odio, quas ipsam repellendus dolores perspiciatis? Magnam blanditiis perferendis expedita ipsa sit, soluta voluptate. Quisquam natus laboriosam ratione repellendus, cumque nihil neque, architecto dolorem vitae omnis commodi! Eius modi velit delectus veniam ut impedit fuga totam maiores, omnis sint reprehenderit veritatis illum quam aliquid, dicta esse! Fugiat exercitationem voluptatum, rerum obcaecati, dolore odit cupiditate animi officia nobis aliquid veniam, magni beatae laboriosam? Soluta obcaecati mollitia atque culpa assumenda quidem blanditiis, facere beatae saepe in quae ipsum impedit molestiae nesciunt velit qui facilis temporibus cum, deleniti voluptate aut? Excepturi sunt culpa asperiores maxime exercitationem qui et, ipsa voluptatum ratione earum, ad, quisquam ea sed voluptatem. Tempore, adipisci.",
+      "  O objeto de estudo desta pesquisa é a importância da educação indígena neste contexto peri urbano, principalmente entre os jovens indígenas aonde há variedades de identidades culturais, cujo problema tem seu foco direcionado à convivência destes com a sociedade envolvente, por considerar muito próximas suas relações sociais com outros jovens, crianças e adultos. Neste sentido tenciona-se realizar uma análise da educação indígena como ferramenta do cunho cultural e vivência social entre os povos envolventes. A partir dai surge a necessidade de construção de materiais didáticos (cartilhas) na Língua Indígena Nheengatú, para utilização como ferramenta de ensino e aprendizagem para se trabalhar com os alunos indígenas do Espaço Cultural Indígena Wakenai Anumarehit, localizado No Parque das Tribos, em Manaus.",
+    title:
+      "Creation and production of a primer in the indigenous language Nheengatú, Indigenous Cultural Space Uka Umbuesara Wakenai Anumarehit - Parque das Tribos - Tarumã, in the urban context of Manaus.",
+    summary:
+      "The focus of this research is the importance of indigenous education in this peri-urban context, especially among indigenous youth with a variety of cultural identities. The problem is centered on their interaction with the surrounding society, considering their close social relationships with other young people, children, and adults. In this sense, we intend to analyze indigenous education as a tool for cultural enrichment and social experience among the surrounding peoples. Hence, there arises the need for the construction of didactic materials (primers) in the Indigenous language Nheengatú, for use as a teaching and learning tool for indigenous students at the Indigenous Cultural Space Wakenai Anumarehit, located in the neighborhood of Parque das Tribos, Manaus.",
   },
   {
     img: "images/ana_maria.jpeg",
@@ -29,6 +37,8 @@ const people = [
     titulo: "",
     resumo:
       "Possui doutorado em Educação pela Universidade de Bolonha (1996). Realizou pós-doutorado no PPG Antropologia Social do Museu Nacional - UFRJ (2007-2008); e no Depto. de Antropologia da Univ. St. Andrews (2017). Atualmente é professora titular da Faculdade de Educação da UFMG, com atuação na área de Antropologia e Educação, principalmente nos seguintes temas: educação intercultural indígena; cultura e escolarização; aprendizagem e cultura; etnografia e aprendizagem; cosmopolítica e ecologia de práticas.",
+    title: "",
+    summary: "",
   },
   {
     img: "images/arlindo.jpeg",
@@ -39,6 +49,10 @@ const people = [
     titulo: "Projeto Rio Negro Solar",
     resumo:
       "Pesquisa interdisciplinar Solar Rio Negro integra o Centro Paulista de Estudos da Transição Energética - CPTEn a partir dos Eixos V - Educação, formação e capacitação para a sustentabilidade socioambiental e VI - Transição para energias renováveis e bioenergia. Propõe investigar mecanismos para a formulação implementação da política pública interdisciplinar denominada Solar Rio Negro em áreas remotas das terras indígenas (T.I.) Cué-Cué/Marabitanas, localizadas no noroeste do Amazonas no município de São Gabriel da Cachoeira, região do Alto Rio Negro e habitadas por quatro povos: Baré, Baniwa, Tukano e Warekena, com 32 comunidades (aldeias) e 55 sítios (pequenas aldeias de uma ou duas famílias) indígenas.",
+    title:
+      "Public Policies for Energy Transition in the Amazon: Photovoltaic Solutions for Electrical Supply to Isolated Communities.",
+    summary:
+      "The interdisciplinary research Solar Rio Negro is part of the Paulista Center for Studies of Energy Transition - CPTEn, focusing on Axes V - Education, training, and capacity building for socio-environmental sustainability, and VI - Transition to renewable energies and bioenergy. It aims to investigate mechanisms for formulating and implementing the interdisciplinary public policy called Solar Rio Negro in remote areas of the indigenous lands (T.I.) Cué-Cué/Marabitanas, located in the northwest of Amazonas in the municipality of São Gabriel da Cachoeira, in the Upper Rio Negro region. These lands are inhabited by four peoples: Baré, Baniwa, Tukano, and Warekena, comprising 32 communities (villages) and 55 sites (small villages of one or two families) of indigenous peoples.",
   },
   {
     img: "images/chantal.jpg",
@@ -49,6 +63,8 @@ const people = [
     titulo: "",
     resumo:
       "Professora da Faculdade de Educação da Universidade Estadual de Campinas (Unicamp), onde coordena o Centro de Antropologia de Processos Educativos (Ceape), financiado pelo Programa Jovem Pesquisador da FAPESP. É graduada em Pedagogia (PUCSP, 2003), com mestrado em Educação (2009) e doutorado em Antropologia (2015), ambos na Universidade Paris Descartes. Sua tese analisa práticas de transmissão e de aprendizagem não escolares de populações ribeirinhas e indígenas da região do Baixo Tapajós, estado do Pará. No atual projeto de pesquisa, financiado pela FAPESP e desenvolvido na Faculdade de Educação da Unicamp, estuda diferentes aspectos da presença indígena no Ensino Superior. Realizou pós-doutorado no Programa de Pós-Graduação em Educação da Pontifícia Universidade Católica do Rio Grande do Sul (2015-2017), no Institut des Hautes Études de l´Amérique latine, Universidade Sorbonne Nouvelle (2017-2018) e na Universidade Estadual de Campinas (2018). É editora associada da revista ProPosições (Unicamp). Principais temas de pesquisa e de interesse: Antropologia da Educação escolar e não escolar; aprendizagem; etnografia de processos educativos; família, parentesco e práticas parentais; povos indígenas e o ensino superior",
+    title: "",
+    summary: "",
   },
   {
     img: "images/clarice.jpeg",
@@ -59,6 +75,8 @@ const people = [
     titulo: "",
     resumo:
       "Clarice Cohn é professora adjunta do Departamento de Ciências Sociais e do Programa de Pós-Graduação em Antropologia Social da Universidade Federal de São Carlos. Coordenou o Observatório da Educação Escolar Indígena da UFSCar, com financiamento CAPES, e o Laboratório de Estudos e Pesquisas em Antropologia da Criança (LEPAC), tendo feito parte, nesta mesma universidade, da Comissão de Ações Afirmativas e, posteriormente, do Grupo Gestor do Programa de Ações Afirmativas. Possui graduação em Ciências Sociais (1994), mestrado (2000) e doutorado em Antropologia Social (2006) pela Universidade de São Paulo, e é Pós-Doutora pela Université Paris Ouest Nanterre La Défense (2016). É associada da Associação Brasileira de Antropologia (ABA) e membro do Public Issues and Action Committee (PIAC) ligado à associação internacional de antropologia Society for the Anthropology of Lowland South America (SALSA). Tem experiência de pesquisa, docência e orientação na área de Antropologia, com ênfase em Etnologia Indígena. Pesquisa com os Mebengokré-Xikrin, povo indígena de língua Jê que vive no Pará, e atua principalmente nos seguintes temas: antropologia, etnologia indígena, estudos Jê, crianças indígenas, antropologia da criança, antropologia da educação e educação escolar indígena.",
+    title: "",
+    summary: "",
   },
   {
     img: "images/italo.jpg",
@@ -70,6 +88,9 @@ const people = [
       "A resistência indígena entre áudios e vistas, uma forma de falar sobre nós, para nós e os outros: cinema",
     resumo:
       "  O presente projeto de pesquisa nasce com a proposta de investigar as narrativas e produções cinematográficas realizadas e produzidas por nós cineastas e realizadores(as) indígenas, dentro do movimento Acampamento Terra Livre (ATL), durante as próximas três edições (2024-2026) que acontecem todos os anos no mês de abril na Capital Federal. Essas produções além de exibirem a cultura e a diversidade dos povos originários com um próprio olhar, são também peculiares, inéditas e trazem questões politicas em seus registros. Assim, pretendo questionar e compreender de que forma nossas produções estão sendo realizadas como “ferramentas de luta” e de como a estética e a política estão inseridas e se articulam nesse processo. A nossa relação (dos povos originários) com o fazer cinema se insere em um processo complexo, no qual percebemos que o nosso contato com o audiovisual se (re)criou ao longo dos tempos e como adquirimos autonomia no uso do(a) vídeo/imagem, resignificando nossas produções. Desse modo, luz, câmera e (r)existência!  ",
+    title: "",
+    summary:
+      "This research project will investigate the narratives and cinematic productions carried out and produced by us, indigenous filmmakers and creators, within the Acampamento Terra Livre (ATL), the largest national indigenous gathering in Brazil, that takes place annually, in April, in the Federal Capital, Brasília. The next three editions (2024-2026) will be investigated. These productions not only showcase the culture and diversity of indigenous peoples with their unique perspective but are also distinctive, unprecedented, and bring political issues into their records. Thus, I aim to question and understand how our productions are being carried out as 'tools of struggle' and how aesthetics and politics are embedded and articulated in this process. Our relationship (of indigenous peoples) with filmmaking is part of a complex process, in which we perceive that our engagement with audiovisual media has (re)created itself over time, and how we have gained autonomy in the use of video/image, giving new meaning to our productions. In this way, lights, camera, and (r)esistance!",
   },
   {
     img: "images/joana.png",
@@ -80,6 +101,8 @@ const people = [
     titulo: "",
     resumo:
       "É professora da Universidade Estadual de Campinas, Departamento de Antropologia. Possui graduação em Ciências Sociais, mestrado e doutorado em Antropologia Social, pós-doutorado pelo Instituto de Biociências, todos pela Universidade de São Paulo. Realizou estagio de pós-doutorado na Universidade de Oxford (UK). É pesquisadora colaboradora do Centro de Estudos Ameríndios (USP), coordenadora do Laboratório de Estudos Pós-Disciplinares (USP) e membro do Centro de Estudos e Pesquisa em Etnologia (Unicamp). Desenvolveu atividades indigenistas como assessora do Programa Wajãpi pelo Instituto de Pesquisa e Formação Indígena Iepé de 2004 a 2017. Concentra suas pesquisas na área de etnologia indígena e antropologia da ciência, trafegando pelos diálogos entre a antropologia e biologia. Coordenadora do Programa de Antropologia Social da Unicamp (2019-2022). É mãe.",
+    title: "",
+    summary: "",
   },
 
   {
@@ -92,6 +115,10 @@ const people = [
       "Você está em território Akroá-Gamella: história oral da resistência de um povo indígena 'extinto' do Maranhão",
     resumo:
       "O povo Akroá-Gamella reside atualmente em uma região que abrange três municípios na baixada maranhense, mantendo suas práticas socioculturais e modo de vida. Após anos de hostilidade e sendo considerados extintos, eles se adaptaram, enfrentando perseguições e apagamento identitário. Como indígena pertencente ao povo Akroá-Gamella, pretendo buscar,  discutir e contar a história do apagamento histórico ocorrido dentro do território dos Akroá-Gamellas, bem como analisar qual era a nossa relação com o chão que pisamos há mais de 300 anos.",
+    title:
+      "You are in Akroá-Gamella Territory:oral History of the Resistance of an 'Extinct' Indigenous People from Maranhão",
+    summary:
+      "The Akroá-Gamella people currently reside in a region that encompasses three municipalities in the Maranhense lowlands, maintaining their socio-cultural practices and way of life. After years of hostility and being considered extinct, they have adapted, facing persecution and identity erasure. As an indigenous member of the Akroá-Gamella people, I intend to seek, discuss, and narrate the history of the historical erasure that occurred within the Akroá-Gamella territory, as well as analyze our relationship with the land we have walked on for over 300 years.",
   },
   {
     img: "images/laura.jfif",
@@ -102,6 +129,8 @@ const people = [
     titulo: "",
     resumo:
       "Laura Rival works on a number of interrelated projects that together illustrate her distinctive approach to the Anthropology of Nature, Society and Development. Her empirically grounded, theoretically oriented and policy-relevant research aims to renew our thinking about the relationship between environment and society. Empirically, her work is grounded in ethnographic research with the Huaorani (Ecuadorian Amazon), inter-disciplinary research with the Makushi (central Guyana), and policy-oriented research with a number of Latin American indigenous and peasant communities, both in Central and South America. Theoretically, she has engaged critically with a range of deterministic assumptions associated with modernist ideologies , as well as with various theories that reify the nature/ culture divide, or perpetuate dubious interpretations of indigenous and peasant livelihoods and their historical dynamics. She has also contributed to political economic analyses of development policies, as well as to discussions surrounding policy instruments aimed at reconciling human development and the conservation of biological and cultural diversity. Her current research builds on this expertise to address burning issues of development in the face of severe environmental degradation and accelerating climate change.",
+    title: "",
+    summary: "",
   },
 
   {
@@ -113,6 +142,10 @@ const people = [
     titulo: "Projeto Rio Negro Solar",
     resumo:
       "Pesquisa interdisciplinar Solar Rio Negro integra o Centro Paulista de Estudos da Transição Energética - CPTEn a partir dos Eixos V - Educação, formação e capacitação para a sustentabilidade socioambiental e VI - Transição para energias renováveis e bioenergia. Propõe investigar mecanismos para a formulação implementação da política pública interdisciplinar denominada Solar Rio Negro em áreas remotas das terras indígenas (T.I.) Cué-Cué/Marabitanas, localizadas no noroeste do Amazonas no município de São Gabriel da Cachoeira, região do Alto Rio Negro e habitadas por quatro povos: Baré, Baniwa, Tukano e Warekena, com 32 comunidades (aldeias) e 55 sítios (pequenas aldeias de uma ou duas famílias) indígenas.",
+    title:
+      "Public Policies for Energy Transition in the Amazon: Photovoltaic Solutions for Electrical Supply to Isolated Communities.",
+    summary:
+      "The interdisciplinary research Solar Rio Negro is part of the Paulista Center for Studies of Energy Transition - CPTEn, focusing on Axes V - Education, training, and capacity building for socio-environmental sustainability, and VI - Transition to renewable energies and bioenergy. It aims to investigate mechanisms for formulating and implementing the interdisciplinary public policy called Solar Rio Negro in remote areas of the indigenous lands (T.I.) Cué-Cué/Marabitanas, located in the northwest of Amazonas in the municipality of São Gabriel da Cachoeira, in the Upper Rio Negro region. These lands are inhabited by four peoples: Baré, Baniwa, Tukano, and Warekena, comprising 32 communities (villages) and 55 sites (small villages of one or two families) of indigenous peoples.",
   },
   {
     img: "images/velinai.jpg",
@@ -123,6 +156,8 @@ const people = [
     titulo: "",
     resumo:
       "I have conducted ethnographic research with San communities in Namibia and Botswana since 2008. My main fieldsite is the Omaheke region in east central Namibia, where I have worked with the Ju|’hoansi and published on topics related to formal and traditional education, state development, animism and relational ontology, and ethics. I am a co-founding member of the Research and Advocacy Group for Hunter Gatherer Education (HG-Edu), established under the International Society for Hunter Gatherer Research (ISHGR). HG-Edu focuses on identifying scientifically informed approaches to issues relating to education and communicating these findings to relevant institutions. I am currently leading a project for the documentation of the material culture of the Omaheke Ju|’hoansi, funded by the Endangered Material Knowledge Project, hosted by the British Museum.",
+    title: "",
+    summary: "",
   },
 
   {
@@ -135,6 +170,10 @@ const people = [
       "Teias de relações, memórias e mulheres indígenas no trabalho da roça no Triângulo Tukano - Alto Rio Negro ",
     resumo:
       "   A mulher indígena do Alto Rio Negro é a principal autora nos trabalhos da roça, desde a organização para abrir nova roça até ao preparo da alimentação do fruto do trabalho da roça. No sistema da troca que envolve o casamento entre os povos do Alto Rio Negro, os saberes de um povo é agregado com o do outro, o que envolve as memorias e entrelaçamento de relações principalmente no trabalho da mulher na roça, com plantio, manejo, cuidado e colheita da maniwa e o repassar para nova geração ou as mulheres proximas. A região do Alto do Rio Negro é localizado no estado do Amazonas, habitado pela diversidade de povos, sendo 22 povos que falam idiomas pertencentes a três familias linguisticas diferente: Tukano oriental, Arawak  e Naduhupy (via livro do PGTA). Essa região possui um vasto território com terras indígenas homologadas e demarcadas. A área onde os Ye’pa Mahsã predominam fica na Terra Indigena Alto Rio Negro conhecida como “Triângulo Tukano” composta por três distritos (chamados assim pela organização da prefeitura de São Gabriel da Cachoeira): Pari-Cachoeira, Taracuá e Iauaretê. Por ser a diversidade de povos, o sistema de casamento vai além do seu povo como no caso do povo Tukano que tem a prática de fazer a troca de casamento com a do povo Dessano, Tuyuka, Tariano e outros povos, onde acontecem troca de saberes, manejos e utensílios.",
+    title:
+      "Webs of Relationships, Memories, and Indigenous Women in Farming Work in the Tukano Triangle - Upper Rio Negro",
+    summary:
+      "Indigenous women from the Upper Rio Negro play a central role in farming activities, from organizing to open new fields to preparing food from the fruits of their labor. In the exchange system involving marriage among the peoples of the Upper Rio Negro, the knowledge of one people is combined with that of another, involving memories and the interweaving of relationships, especially in women's work in the fields. This includes planting, managing, caring, and harvesting manioc, and passing on this knowledge to the next generation or to nearby women. The Upper Rio Negro region is located in the state of Amazonas and is inhabited by a diverse range of peoples, including 22 ethnic groups speaking languages belonging to three different linguistic families: Eastern Tukano, Arawak, and Naduhupy (via the PGTA book). This region has a vast territory with demarcated and recognized indigenous lands. The area where the Ye’pa Mahsã predominate is in the Alto Rio Negro Indigenous Land known as the 'Tukano Triangle,' composed of three districts (referred to as such by the organization of the municipality of São Gabriel da Cachoeira): Pari-Cachoeira, Taracuá, and Iauaretê. Due to the diversity of peoples, the marriage system goes beyond their own people, as is the case with the Tukano people who practice exchanging marriages with the Dessano, Tuyuka, Tariano, and other peoples. This involves the exchange of knowledge, practices, and utensils.",
   },
   {
     img: "images/yashira.png",
@@ -145,6 +184,9 @@ const people = [
     titulo: "Estimação de Parâmetros de uma Máquina Síncrona ",
     resumo:
       "Os sistemas de energia elétrica atuais dependem de estudos elétricos prévios, os quais envolvem a simulação da dinâmica do sistema. Esses estudos fundamentam-se em modelos dos equipamentos elétricos presentes no sistema, os quais são descritos por conjuntos de equações algébricas e diferenciais. Esses modelos representam o comportamento de grandezas como módulo e ângulo de tensões e correntes, velocidade de rotores, potências mecânica e elétrica (ativa e reativa). No contexto dos   geradores síncronos, é comum que os parâmetros desses modelos sejam inicialmente fornecidos pelos fabricantes e validados durante o comissionamento, por meio de testes clássicos realizados com a máquina fora da operação real. Entretanto, ao longo da vida útil, esses parâmetros podem sofrer variações, demandando procedimentos periódicos de validação e, se necessário, calibração para ajustar valores incorretos. Realizar testes com a parada do gerador implica em custos econômicos significativos. Uma alternativa mais vantajosa consiste na realização de validação e calibração utilizando dados obtidos com os geradores em operação real. A adoção da infraestrutura moderna de monitoração e medição facilita essa abordagem, proporcionando uma solução mais eficiente e econômica para manter a precisão e confiabilidade dos modelos ao longo do tempo.",
+    title: "Estimation of Parameters for a Synchronous Machine",
+    summary:
+      "Modern electrical power systems rely on preliminary electrical studies, which involve simulating the system's dynamics. These studies are based on models of electrical equipment in the system, described by sets of algebraic and differential equations. These models represent the behavior of variables such as voltage and current magnitudes and angles, rotor speed, mechanical and electrical powers (active and reactive). In the context of synchronous generators, it is common for the parameters of these models to be initially provided by manufacturers and validated during commissioning through classical tests conducted with the machine out of actual operation. However, throughout its lifespan, these parameters may undergo variations, requiring periodic validation procedures and, if necessary, calibration to adjust incorrect values. Conducting tests with generator shutdown involves significant economic costs. A more advantageous alternative is the validation and calibration using data obtained with generators in actual operation. The adoption of modern monitoring and measurement infrastructure facilitates this approach, providing a more efficient and cost-effective solution to maintain the accuracy and reliability of models over time.",
   },
 ];
 

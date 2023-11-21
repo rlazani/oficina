@@ -30,7 +30,8 @@ slideClicado.forEach(function (slide) {
     const nomePesquisador = e.currentTarget.dataset.id;
 
     let projetoRenderizado = data.map((pesquisador) => {
-      const { img, name, job, text, url, resumo, titulo } = pesquisador;
+      const { img, name, job, text, url, resumo, titulo, title, summary } =
+        pesquisador;
       if (nomePesquisador === name) {
         adicionarBlur.classList.add("blur");
         marcaFechar.classList.remove("hide");
@@ -42,14 +43,16 @@ slideClicado.forEach(function (slide) {
         <p class="nome">${name}</p>
         <p class="cargo">${job} / ${text}</p>
         <a href="${url}" target=_blank> <p class="lattes">Lattes</p></a>
-        <p class="titulo">${titulo}</p>
+        
       </div>
     </div>
     <div class="resumo">
-      <p>
-      ${resumo}
-      </p>
+     <p class="titulo">${titulo}</p>
+      <p class="texto"> ${resumo} </p>
+       <p class="titulo"> ${title} </p>
+       <p> ${summary} </p>
     </div>
+    
   </section>`;
       }
     });
