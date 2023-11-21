@@ -79,6 +79,51 @@ const people = [
     summary: "",
   },
   {
+    img: "images/dalila.JPG",
+    name: "Dalila Luiz",
+    job: "Doutoranda",
+    text: "Educação / Unicamp",
+    url: " http://lattes.cnpq.br/4737474023231638",
+    titulo:
+      "A lingua Terena no Currículo escolar indígena: em busca do bilinguismo",
+    resumo:
+      "Este trabalho é o meu projeto de pesquisa para o desenvolvimento de minha tese de doutoramento da Faculdade em Educação da Universidade Estadual de Campinas/SP. Sou indígena da etnia Terena do Município de Aquidauana – Mato Grosso do Sul, moradora da Aldeia Bananal. Desde a minha infância, vivi, convivi com a minha ancestralidade e com ela aprendi a valorizar o que sou e o que me tornei hoje e com toda a minha trajetória sem deixar de ser o que sou. Este projeto de pesquisa tem como título “A Língua Terena no currículo Escolar Indígena: em busca do Bilinguismo”, um tema muito relevante que aborda a presença e a busca de efetivação da língua nas instituições de ensino através do currículo autodenominado como bilíngues. Pretendo comparar os currículos de um comparando-as com a escola urbana onde regem o ensino bilíngüe (língua inglesaportuguesa), no o caso da escola SESI (CG) e das Escolas Indígenas dos (Municípios de Aquidauana, Miranda, Dois Irmãos do Buriti e Dourados). Sabendo que, o contexto escolar é um dos instrumentos a ser usada para o fortalecimento da identidade indígena, no caso a língua terena, como cita Tassinari, a escola é um “[...] espaço de fronteiras, espaço de articulação e troca de conhecimentos e técnicas, assim como espaços de incompreensões e de redefinições identitária dos grupos envolvidos nesse processo, índios e não índios” (TASSINARI, 2001, p.4). A negação da língua indígena falada se deu devido aos processos de colonização, como afirma alguns teóricos estudados como; a Bittencourt e Ladeira (2000), Gallo (1994/1997), Nicao (2003/2008), Monserrat (1999), Tassinari, 2001), Teixeira e Grupione (1995), Veiga e D’angeles (1993), Maher (1991), Lopes e Macedo (2011) e outros, ainda sendo finalizado.",
+    title:
+      "TERENA LANGUAGE IN INDIGENOUS SCHOOL CURRICULUM: IN SEARCH OF BILINGUALISM",
+    summary:
+      "This work is my research project for the development of my doctoral thesis at the Faculty of Education at the State University of Campinas/SP. I am an indigenous person of the Terena ethnicity from the Municipality of Aquidauana – Mato Grosso do Sul, residing in Aldeia Bananal. Since my childhood, I have lived and interacted with my ancestry, learning to appreciate who I am and what I have become today through my entire journey without losing my identity. This research project is titled 'Terena Language in Indigenous School Curriculum: In Search of Bilingualism,' a very relevant theme that addresses the presence and the pursuit of language implementation in educational institutions through self-proclaimed bilingual curricula. I intend to compare the curricula of indigenous schools with those of urban schools that implement bilingual education (English/Portuguese), such as SESI School (CG) and Indigenous Schools in the municipalities of Aquidauana, Miranda, Dois Irmãos do Buriti, and Dourados. Understanding that the school context is one of the instruments used to strengthen indigenous identity, particularly the Terena language, as Tassinari states, the school is a '[...] space of borders, a space of articulation and exchange of knowledge and techniques, as well as spaces of misunderstandings and identity redefinitions of the groups involved in this process, both indigenous and non-indigenous' (TASSINARI, 2001, p.4). The denial of the spoken indigenous language occurred due to the processes of colonization, as affirmed by some studied theorists including Bittencourt and Ladeira (2000), Gallo (1994/1997), Nicao (2003/2008), Monserrat (1999), Tassinari (2001), Teixeira and Grupione (1995), Veiga and D'angeles (1993), Maher (1991), Lopes and Macedo (2011), and others, still being finalized.",
+  },
+  {
+    img: "images/elisangela.jpeg",
+    name: "Elisangêla Baré",
+    job: "Graduanda",
+    text: "Unicamp",
+    url: " http://lattes.cnpq.br/4737474023231638",
+    titulo:
+      "CESTOS DE CONHECIMENTOS PARA O CUIDADO E A SAÚDE:AS MULHERES RIONEGRINAS COMO FILHAS DE AMARO",
+    resumo:
+      "Os Kariãma/Cestos de conhecimentos:  são elementos composta por tradição, território, povo, mito e cultura esse conjunto faz com que você perpassa por diversos ensinamentos naturais principalmente na primeira menstruação “ritual da moça nova”, o  ensino e o  aprendizado  é constituída por esse momento, onde a menina resguardará dias revivendo o ensino e aprendendo sobre  saberes  sobre a sua identidade cultural,  território, mitos, artesanatos, canto, danças, manejo da roça, Plantas medicinais e   o cuidado com corpo femenino.",
+    title:
+      "Baskets of Knowledge for care and Health: the Rio Negro woman as dauthers of Amaro",
+    summary:
+      "The Kariãma/Baskets of Knowledge are elements composed of tradition, territory, people, myth, and culture. This combination takes you through various natural teachings, especially during the first menstruation, the 'ritual of the new girl.' The teaching and learning are constituted by this moment, where the girl will spend days reliving the teachings and learning about knowledge related to her cultural identity, territory, myths, crafts, singing, dancing, farming practices, medicinal plants, and the care of the female body.",
+  },
+  {
+    img: "images/geovane.jfif",
+    name: "Geovane Matori Maleewaka",
+    job: "Graduando",
+    text: "Unicamp",
+    url: "",
+    titulo:
+      "Saúde, doença e cuidado na perspectiva dos acadêmicos indígenas do povo Baníwa ingressantes nos cursos de graduação da Universidade Estadual de Campinas",
+    resumo:
+      "O cuidado de saúde para populações indígenas tem algumas especificidades e está previsto nos serviços de saúde indígena no Brasil. No entanto, esse cuidado de saúde é uma realidade distante que pode ser evidenciada pela lacuna existente na construção dos conhecimentos acerca da saúde indígena que segue excluindo a pluralidade dos saberes. O objetivo desta pesquisa é compreender os sentidos atribuídos à saúde-doença-cuidado pelos estudantes indígenas do povo Baníwa ingressantes do vestibular indígena da Unicamp. Será adotada metodologia qualitativa e a técnica de produção e análise do material produzido em encontros coletivos será apoiada no arcabouço teórico dos Estudos Decoloniais e dos Estudos Culturais. A construção de diálogos que incluam e componham com as perspectivas dos estudantes do povo Baníwa será possível vislumbrar um enriquecimento do conhecimento e das práticas clínicas em saúde. As narrativas construídas, coletiva ou individualmente, sobre os sentidos atribuídos ao processo saúde-doença-cuidado pretendem ser um conhecimento entre o pesquisador e os participantes, uma vez que o pesquisador do projeto também é pertencente à etnia Baníwa.",
+    title:
+      "Health, illness and care from the perspective of academics indigenous people of the Baníwa undergraduate people students entering the degree from at the State University of Campinas",
+    summary:
+      "Health care for indigenous populations has some specificities and is provided for in indigenous health services in Brazil. However, this health care is a distant reality that can be evidenced by the gap in the constructionnon consideration of knowledge about indigenous health from the indigenous perspective, which continues to exclude the plurality of knowledges. The objective of this research is to understand the meanings attributed to health-illness-care by indigenous undergraduate students from the Baníwa people that entered taking the indigenous entrance exam at Unicamp by a special selective process, destinated to indigenous candidates only. Qualitative methodology will be adopted and the production and analysis technique of material produced in collective meetings will be supported by the theoretical framework of Decolonial Studies and Cultural Studies. The construction of dialogues that include and compose the perspectives of students from the Baníwa people will make it possible to envisage an enrichment of knowledge and clinical practices in health. The narratives constructed, collectively or individually, about the meanings attributed to the health-disease-care process are intended to be knowledge between the researcher and the participants, since the project researcher also belongs to the Baníwa ethnic group.",
+  },
+  {
     img: "images/italo.jpg",
     name: "Ítalo Rodrigo Mongconãnn Reis",
     job: "Doutorando",
