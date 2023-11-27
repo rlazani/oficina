@@ -1,8 +1,11 @@
 
-. 17/10 a 23/10: Seção dos Participantes:
+. 24/11
 
-a- finalizar marca fechar.
-b- colocar blur.
+Versão em inglês:
+
+a- Fazer um button English / Português
+b- Fazer atribuções dos buttons para uma variável
+c- De acordo com a atribuição chamar um map em cada língua.
 
 
 

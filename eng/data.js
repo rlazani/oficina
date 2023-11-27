@@ -2,12 +2,9 @@ const people = [
   {
     img: "images/adilce.jpeg",
     name: "Adilce Veiga Ferraz",
-    job: "Graduanda",
-    text: "Ciências do Esporte / Unicamp",
+    job: "Undergraduate",
+    text: "Physical education / Unicamp",
     url: "http://lattes.cnpq.br/0443706076820283",
-    titulo: "História do futebol feminino em São Gabriel da Cachoeira ",
-    resumo:
-      "A pesquisa descreverá a história da emergência e institucionalização da prática do futebol feminino, organizado em times e praticado de forma competitiva, na cidade de São Gabriel da Cachoeira, estado do Amazonas. Se já existem trabalhos acadêmicos que abordam a prática do futebol entre indígenas e aquela do futebol de mulheres, não encontramos na literatura científica registros sobre a prática de futebol por mulheres indígenas, o que reforça a importância do trabalho proposto. Com base em entrevistas com as mulheres que estiveram na iniciativa da institucionalização do futebol de mulheres em São Gabriel da Cachoeira, a pesquisa irá investigar o perfil das jogadas, os desafios que enfrentaram e que enfrentam, as aprendizagens, sociabilidades e alegrias promovidas por essa experiência e pelo acesso à vida pública por ela promovido. Através do estudo do futebol de mulheres, tocaremos em temas mais amplos, como gênero e juventude contemporânea indígena, na zona urbana da região do Alto Rio Negro. O projeto é proposto por uma estudante indígena daquela cidade, praticante de futebol.",
     title:
       "History of Women's Football in the Municipality of São Gabriel da Cachoeira (state of Amazonas, Brazil)",
     summary:
@@ -16,8 +13,8 @@ const people = [
   {
     img: "images/ana_claudia.jfif",
     name: "Ana Claudia Martins Tomas",
-    job: "Mestranda",
-    text: "Linguistica / Unicamp",
+    job: "Master's student",
+    text: "Linguistics / Unicamp",
     url: "http://lattes.cnpq.br/4394434281910965",
     titulo:
       "Confecção e produção de cartilha na língua indígena Nheengatú, Espaço Cultural Indígena Uka Umbuesara Wakenai Anumarehit - Parque das Tribos - Tarumã, no contexto urbano de Manaus ",
@@ -31,7 +28,7 @@ const people = [
   {
     img: "images/ana_maria.jpeg",
     name: "Ana Maria Rabelo Gomes",
-    job: "Professora",
+    job: "Professor",
     text: "UFMG",
     url: "http://lattes.cnpq.br/9504461153751227",
     titulo: "",
@@ -44,8 +41,8 @@ const people = [
   {
     img: "images/arlindo.jpeg",
     name: "Arlindo Alemão Gregório",
-    job: "Graduando",
-    text: "Engenharia Elétrica / Unicamp",
+    job: "Undergraduate",
+    text: "Electrical Engineering / Unicamp",
     url: "http://lattes.cnpq.br/9340179618863234",
     titulo: "Projeto Rio Negro Solar",
     resumo:
@@ -58,8 +55,8 @@ const people = [
   {
     img: "images/chantal.jpg",
     name: "Chantal Victória Medaets",
-    job: "Professora",
-    text: "Educação / Unicamp",
+    job: "Professor",
+    text: "Education / Unicamp",
     url: "http://lattes.cnpq.br/8835346304041092",
     titulo: "",
     resumo:
@@ -71,7 +68,7 @@ const people = [
   {
     img: "images/clarice.jpeg",
     name: "Clarice Cohn",
-    job: "Professora",
+    job: "Professor",
     text: "Ufscar",
     url: "http://lattes.cnpq.br/1714080901123094",
     titulo: "",
@@ -84,8 +81,8 @@ const people = [
   {
     img: "images/dalila.JPG",
     name: "Dalila Luiz",
-    job: "Doutoranda",
-    text: "Educação / Unicamp",
+    job: "PhD student",
+    text: "Education / Unicamp",
     url: " http://lattes.cnpq.br/4737474023231638",
     titulo:
       "A lingua Terena no Currículo escolar indígena: em busca do bilinguismo",
@@ -99,7 +96,7 @@ const people = [
   {
     img: "images/elisangela.jpeg",
     name: "Elisangêla Baré",
-    job: "Graduanda",
+    job: "Undergraduate",
     text: "Unicamp",
     url: " http://lattes.cnpq.br/4737474023231638",
     titulo:
@@ -114,7 +111,7 @@ const people = [
   {
     img: "images/geovane.jfif",
     name: "Geovane Matori Maleewaka",
-    job: "Graduando",
+    job: "Undergraduate",
     text: "Unicamp",
     url: "",
     titulo:
@@ -129,8 +126,8 @@ const people = [
   {
     img: "images/italo.jpg",
     name: "Ítalo Rodrigo Mongconãnn Reis",
-    job: "Doutorando",
-    text: "Multimeios / Unicamp",
+    job: "PhD student",
+    text: "Media Studies / Unicamp",
     url: "",
     titulo:
       "A resistência indígena entre áudios e vistas, uma forma de falar sobre nós, para nós e os outros: cinema",
@@ -144,8 +141,8 @@ const people = [
   {
     img: "images/joana.png",
     name: "Joana Cabral de Oliveira",
-    job: "Professora",
-    text: "Antropologia / Unicamp",
+    job: "Professor",
+    text: "Antropology / Unicamp",
     url: " http://lattes.cnpq.br/1865013236957945",
     titulo: "",
     resumo:
@@ -157,8 +154,8 @@ const people = [
   {
     img: "images/katia.jpg",
     name: "Katia Paz Sampaio",
-    job: "Graduanda",
-    text: "Educação / Unicamp",
+    job: "Undergraduate",
+    text: "Education / Unicamp",
     url: " ",
     titulo:
       "A transmissão do conhecimento tradicional intergeracional do povo Tukano: uma pesquisa sobre os fatores que enfraquecem e fortalecem a identidade cultural das novas gerações",
@@ -174,7 +171,7 @@ const people = [
   {
     img: "images/laura.jfif",
     name: "Laura Rival",
-    job: "Professora",
+    job: "Professor",
     text: "Oxford University",
     url: "https://www.qeh.ox.ac.uk/people/laura-rival",
     titulo: "",
@@ -187,8 +184,8 @@ const people = [
   {
     img: "images/leandro.jpeg",
     name: "Leandro Karaí Mirim",
-    job: "Mestrando",
-    text: "Psicologia / USP",
+    job: "Master's student",
+    text: "Psychology / USP",
     url: "",
     titulo:
       "Tensionamentos na linguagem das teorias e sistemas psicológicos no processo de construção de uma psicologia indígena: o caso da Rede de Atenção à Pessoa Indígena.",
@@ -203,8 +200,8 @@ const people = [
   {
     img: "images/niceias.jpeg",
     name: "Niceias Angélica Maués",
-    job: "Graduanda",
-    text: "Engenharia de Alimentos / Unicamp",
+    job: "Undergraduate",
+    text: "Food Engineering / Unicamp",
     url: "http://lattes.cnpq.br/7391100500198202",
     titulo: "Projeto Rio Negro Solar",
     resumo:
@@ -217,8 +214,8 @@ const people = [
   {
     img: "images/jeremias.jfif",
     name: "Paulo Jeremias",
-    job: "Graduando",
-    text: "Arquitetura / Unicamp",
+    job: "Undergraduate",
+    text: "Architecture / Unicamp",
     url: "",
     titulo:
       "Você está em território Akroá-Gamella: história oral da resistência de um povo indígena 'extinto' do Maranhão",
@@ -232,8 +229,8 @@ const people = [
   {
     img: "images/saniwe.jpeg",
     name: "Saniwê Alves Braz ",
-    job: "Doutorando",
-    text: "Educação / UFMG",
+    job: "PhD student",
+    text: "Education / UFMG",
     url: "http://lattes.cnpq.br/0649381362701822",
     titulo:
       "Escola, casa e aldeia: As crianças de Muã Mimatxi e a educação indígena nos espaços da aldeia Muã Mimatxi",
@@ -247,8 +244,8 @@ const people = [
   {
     img: "images/siwe.jpeg",
     name: "Siwê Alves Braz",
-    job: "Doutorando",
-    text: "Educação / UFMG",
+    job: "PhD student",
+    text: "Education / UFMG",
     url: "http://lattes.cnpq.br/6988125231515541",
     titulo:
       "Identidade, cultura e educação: A concepção de mundo intercultural a partir da trajetória de Kanatyo Pataxoop norteando o conhecimento de Muã Mimatxi",
@@ -263,8 +260,8 @@ const people = [
   {
     img: "images/uara.jpeg",
     name: "Uara Pataxó",
-    job: "Mestranda",
-    text: "Ciência da Informação / Ufscar",
+    job: "Master's student",
+    text: "Information Science / Ufscar",
     url: "",
     titulo: "Povos indígenas na Ciência da Informação",
     resumo:
@@ -276,7 +273,7 @@ const people = [
   {
     img: "images/velinai.jpg",
     name: "Velina Ninkova",
-    job: "Professora",
+    job: "Professor",
     text: "Universidade Oslo Metropolitan",
     url: "https://www.oslomet.no/en/about/employee/velinani/",
     titulo: "",
@@ -289,8 +286,8 @@ const people = [
   {
     img: "images/veronika.jpeg",
     name: "Veronica Monachini de Carvalho",
-    job: "Doutoranda",
-    text: "Antropologia / Unicamp",
+    job: "PhD student",
+    text: "Antropology / Unicamp",
     url: "http://lattes.cnpq.br/7766704030418030",
     titulo: "",
     resumo:
@@ -303,8 +300,8 @@ const people = [
   {
     img: "images/vera.jpeg",
     name: "Vera Lúcia Aguiar Moura",
-    job: "Graduanda",
-    text: "História / Unicamp",
+    job: "Undergraduate",
+    text: "History / Unicamp",
     url: "",
     titulo:
       "Teias de relações, memórias e mulheres indígenas no trabalho da roça no Triângulo Tukano - Alto Rio Negro ",
@@ -318,8 +315,8 @@ const people = [
   {
     img: "images/yashira.png",
     name: "Yashira Wendy Raymundo Yauri",
-    job: "Mestranda",
-    text: "Engenharia Elétrica / Unicamp",
+    job: "Master's student",
+    text: "Electrical Engineering / Unicamp",
     url: "http://lattes.cnpq.br/6589839819632423",
     titulo: "Estimação de Parâmetros de uma Máquina Síncrona ",
     resumo:
