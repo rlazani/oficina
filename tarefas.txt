@@ -1,11 +1,5 @@
 
-. 24/11
 
-Versão em inglês:
-
-a- Fazer um button English / Português
-b- Fazer atribuções dos buttons para uma variável
-c- De acordo com a atribuição chamar um map em cada língua.
 
 
 

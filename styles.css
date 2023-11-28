@@ -511,10 +511,7 @@ Organização
   flex-direction: column;
   align-items: center;
   flex-wrap: wrap;
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e0d7ba+16,7e9915+36,ccbb80+58,e8e2d3+72,849636+99 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e8e2d3+0,e0d7ba+19,7e9915+41,7e9915+41,ccbb80+74,849636+99 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e8e2d3+0,e0d7ba+19,7e9915+41,7e9915+41,ccbb80+74,849636+99 */
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7f2e1+0,e8e2d3+0,e0d7ba+27,ccbb80+53,97aa6b+77,849636+99 */
+
   background: linear-gradient(
     135deg,
     #f7f2e1 0%,
@@ -546,58 +543,6 @@ Organização
   margin-left: 2rem;
 }
 
-/* @media screen and (max-width: 1700px) {
-  #org__h1 {
-    margin: 5rem 0;
-  }
-  .icons {
-    display: flex;
-    flex-direction: row;
-    width: 90vw;
-    justify-content: center;
-  }
-  .div__icons {
-    width: 20vw;
-    height: 30vh;
-    margin: 1rem;
-  }
-
-  #ceape {
-    width: 80%;
-  }
-  #fe {
-    width: 35%;
-  }
-  #caiapi {
-    width: 50%;
-    margin-left: -5rem;
-  }
-} */
-
-/* @media screen and (max-width: 1200px) {
-  .icons {
-    display: flex;
-    flex-direction: row;
-    width: 100vw;
-  }
-  .div__icons {
-    width: 20vw;
-    height: 30vh;
-    margin: 1rem;
-    margin-left: 7rem;
-  }
-
-  #ceape {
-    width: 100%;
-  }
-  #fe {
-    width: 55%;
-  }
-  #caiapi {
-    width: 70%;
-    margin-left: -3rem;
-  }
-} */
 @media screen and (max-width: 1050px) {
   .org {
     display: flex;
@@ -619,7 +564,7 @@ Organização
     margin: 0 auto;
     margin-bottom: 0rem;
     width: 100%;
-    height: 40vh;
+    height: 20vh;
   }
 
   #ceape {
@@ -717,8 +662,6 @@ PROJETOS
   overflow-y: scroll;
   margin-bottom: 5rem;
   font-size: 2rem;
-}
-.resumo p {
 }
 
 .nome {
@@ -823,5 +766,23 @@ PROJETOS
 @media screen and (max-width: 600px) {
   .fechar {
     margin-left: 88%;
+  }
+}
+
+.arrow {
+  color: #d77206;
+  font-size: 2rem;
+  margin-left: 85%;
+  cursor: pointer;
+  border: solid #d77206 1px;
+  padding: 1rem;
+}
+.arrow:hover {
+  opacity: 70%;
+}
+
+@media screen and (max-width: 1000px) {
+  .arrow {
+    margin-bottom: 3rem;
   }
 }
